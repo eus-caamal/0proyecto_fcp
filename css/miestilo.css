@@ -1,0 +1,66 @@
+nav{
+	margin: 0em 2em 0em 2em;
+}
+nav .titulo-nav{
+	margin: 0em 0em;
+}
+/*nav li ul{
+	position: absolute;
+	width: 0;
+	overflow: hidden;
+}
+
+nav li:hover ul, nav li:focus ul{
+	width: 100%;
+	margin: 0 -4rem -4rem -4rem!important;
+	
+	z-index: 3!important;
+
+}
+*/
+.color {
+text-decoration: none !important;
+color: black !important;
+}
+
+.galeria{
+	padding: 0em;
+}
+
+.justificado{
+	text-align: justify;
+	padding: 0em 0em 1em 0em;
+}
+
+.lista {
+	
+	margin: 0em 1.1em;
+	/*padding: 1em 0em !important;*/
+
+}
+
+.navegacion {
+	font-size: 1.5em;
+	margin: 0em 1.1em;
+	/*padding: 1em 0em !important;*/
+}
+
+.video {
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 35%;
+	padding-top:0%;
+	position: relative;
+}
+
+.titulo-nav{
+	margin: .5em .5em;
+}
+.video video{
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
